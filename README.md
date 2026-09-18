@@ -1,1 +1,1 @@
-# vju-calendar
+# VJU-Calendar
